@@ -1,6 +1,8 @@
 'use strict'
 
 // @Compiler-Transpile "true"
+// @Compiler-Minify "true"
+// @Compiler-Output "x-notification.min.js"
 
 class XNotification extends HTMLElement {
   createdCallback() {
