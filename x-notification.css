@@ -61,7 +61,7 @@
   100% { opacity: 1; -webkit-transform: translate3d(0,0,0) scale3d(1,1,1); transform: translate3d(0,0,0) scale3d(1,1,1); }
 }
 .xnotification-box {
-  width: 180px;
+  width: 300px;
   display: block;
   position: relative;
   background: rgba(42,45,50,0.85);
