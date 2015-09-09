@@ -1,0 +1,22 @@
+{
+  "name": "sb-x-notification",
+  "version": "1.0.0",
+  "description": "Codedrops notifications as HTML5 Custom Element",
+  "main": "x-notification.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steelbrain/x-notification.git"
+  },
+  "keywords": [
+    "html5"
+  ],
+  "author": "steelbrain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steelbrain/x-notification/issues"
+  },
+  "homepage": "https://github.com/steelbrain/x-notification#readme"
+}
