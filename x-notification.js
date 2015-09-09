@@ -1,5 +1,7 @@
 'use strict'
 
+// @Compiler-Transpile "true"
+
 class XNotification extends HTMLElement {
   createdCallback() {
     this.config = {
