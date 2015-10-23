@@ -2,9 +2,10 @@
   "name": "sb-x-notification",
   "version": "1.0.1",
   "description": "Codedrops notifications as HTML5 Custom Element",
-  "main": "x-notification.js",
+  "main": "dist/x-notification.min.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "uc-compile lib/x-notification.js > dist/x-notification.min.js && uc-compile src/browser.js && uc-compile lib/x-notification.css --Uglify > dist/x-notification.css"
   },
   "repository": {
     "type": "git",
