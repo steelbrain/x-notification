@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/steelbrain/x-notification#readme",
   "dependencies": {
-    "custom-element-base": "^1.0.1"
+    "custom-element-base": "^2.0.0"
   }
 }
